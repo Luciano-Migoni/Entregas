@@ -9,14 +9,14 @@
 [Ignacio Perez](https://github.com/Ignacio-PerezDornheim)  
 [Genaro Sfrede](https://github.com/genaro-sfrede)  
   
-  
-  
 |Integrante|Legajo|Correo|Telefono|Entrega|
 |----|----|----|----|----|
 |Luciano Migoni|14713|lucianomigoni2005@gmail.com|2615664935|[Modulo 1](https://github.com/Luciano-Migoni/Modulo_1/blob/main/README.md)|
 |Ignacio Perez|14778|tatopdmza@gmail.com|2612578719|[Modulo 1](https://github.com/Ignacio-PerezDornheim/modulo_1.git)|
 |Genaro Sfrede|14621|genaro.sfrede@gmail.com|2613049036|[Modulo 1](https://github.com/genaro-sfrede/modulo_1.git)|
-|Gianella Albarracin|14783|albarracingianella45@gmail.com|2616927786|[Modulo 1](https://github.com/Gianella-albarracín)|
+|Gianella Albarracin|14783|albarracingianella45@gmail.com|2616927786|[Modulo 1](https://github.com/Gianella-albarracín)|  
+
+![Este es el logotipo del grupo](https://drive.google.com/file/d/1EPqTjoVeiT39pn5tUYifW14XIL7AoYsq/view?usp=drive_link)
 
     
 Entrega del modulo 1: <https://github.com/Luciano-Migoni/Modulo_1/edit/main/README.md>
