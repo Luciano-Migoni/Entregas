@@ -16,7 +16,4 @@
 |Genaro Sfrede|14621|genaro.sfrede@gmail.com|2613049036|[Modulo 1](https://github.com/genaro-sfrede/modulo_1.git)|
 |Gianella Albarracin|14783|albarracingianella45@gmail.com|2616927786|[Modulo 1](https://github.com/Gianella-albarracín)|  
 
-![Este es el logotipo del grupo](https://drive.google.com/file/d/1EPqTjoVeiT39pn5tUYifW14XIL7AoYsq/view?usp=drive_link)
-
-    
-Entrega del modulo 1: <https://github.com/Luciano-Migoni/Modulo_1/edit/main/README.md>
+!![Actitud_Positiva Logotipo](https://github.com/user-attachments/assets/4cf7cc61-dd29-41ad-aef5-13fe769184dc)
