@@ -26,6 +26,11 @@
 
 ---
 
+## Utilización de HTML
+
+El grupo creó un archivo de nombre "INDEX.html" que contiene un esquema en HTML utilizando nociones basicas como listas, hipervinculos
+Enlace al archivo en cuestión: [INDEX]()
+
 ### CV de cada Integrante
 
 [Albarracin Gianella](https://github.com/Luciano-Migoni/Entregas/blob/main/CV_Albarracin_Gianella.pdf)  
