@@ -29,6 +29,6 @@
 ### CV de cada Integrante
 
 [Albarracin Gianella](https://github.com/Luciano-Migoni/Entregas/blob/main/CV_Albarracin_Gianella.pdf)  
-[Migoni Luciano]()  
-[Perez Ignacio]()  
-[Sfrede Genaro]()  
+[Migoni Luciano](https://github.com/Luciano-Migoni/Entregas/blob/main/CV_Migoni_Luciano.pdf)  
+[Perez Ignacio](https://github.com/Luciano-Migoni/Entregas/blob/main/CV_Ignacio_Perez.pdf)  
+[Sfrede Genaro](https://github.com/Luciano-Migoni/Entregas/blob/main/CV_Sfrede_Genaro.pdf)  
