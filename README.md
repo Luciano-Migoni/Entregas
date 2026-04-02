@@ -26,7 +26,7 @@
 
 ### CV de cada Integrante
 
-[Albarracin Gianella]()
-[Migoni Luciano]()
-[Perez Ignacio]()
-[Sfrede Genaro]()
+[Albarracin Gianella]()  
+[Migoni Luciano]()  
+[Perez Ignacio]()  
+[Sfrede Genaro]()  
