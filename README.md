@@ -2,6 +2,8 @@
 
 ### Grupo "Actitud Positiva :)"
 
+---
+
 ##### Integrantes:
 
 [Gianella Albarracin](https://github.com/Gianella-albarracin)  
