@@ -21,3 +21,12 @@
 ### Logotipo del grupo:
 
 ![Actitud_Positiva Logotipo](https://github.com/user-attachments/assets/4cf7cc61-dd29-41ad-aef5-13fe769184dc)
+
+---
+
+### CV de cada Integrante
+
+[Albarracin Gianella]()
+[Migoni Luciano]()
+[Perez Ignacio]()
+[Sfrede Genaro]()
