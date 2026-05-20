@@ -22,10 +22,12 @@
 
 ### Enlaces de Entregas
 
-Gianella Albarracin: [Modulo 1](https://github.com/Gianella-albarracin/Modulo_1)  
-Luciano Migoni: [Modulo 1](https://github.com/Luciano-Migoni/Modulo_1)  
-Ignacio Perez: [Modulo 1](https://github.com/Ignacio-PerezDornheim/modulo_1.git)  
-Sfrede Genaro: [Modulo 1](https://github.com/genaro-sfrede/modulo_1.git)  
+|Integrante|Modulo 1|Modulo 2|Modulo 3|
+|------|------|------|------|
+|Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo_1)|[M2]|[M3]|
+|Luciano Migoni|[M1](https://github.com/Luciano-Migoni/Modulo_1)|[M2](https://github.com/Luciano-Migoni/Modulo_2)|[M3](https://github.com/Luciano-Migoni/Modulo_3)|
+|Ignacio Perez|[M1](https://github.com/Ignacio-PerezDornheim/modulo_1.git)|[M2](https://github.com/Ignacio-PerezDornheim/Modulo_2)|[M3]|
+|Genaro Sfrede|[M1](https://github.com/genaro-sfrede/modulo_1.git)|[M2](https://github.com/genaro-sfrede/modulo_2)|[M3]|
 
 ### Logotipo del grupo:
 
