@@ -13,12 +13,19 @@
   
 |Integrante|Legajo|Correo|Telefono|Entrega|
 |----|----|----|----|----|
-|Gianella Albarracin|14783|albarracingianella45@gmail.com|2616927786|[Modulo 1](https://github.com/Gianella-albarracin/Modulo_1)|  
-|Luciano Migoni|14713|lucianomigoni2005@gmail.com|2615664935|[Modulo 1](https://github.com/Luciano-Migoni/Modulo_1)|
-|Ignacio Perez|14778|tatopdmza@gmail.com|2612578719|[Modulo 1](https://github.com/Ignacio-PerezDornheim/modulo_1.git)|
-|Genaro Sfrede|14621|genaro.sfrede@gmail.com|2613049036|[Modulo 1](https://github.com/genaro-sfrede/modulo_1.git)|
+|Gianella Albarracin|14783|albarracingianella45@gmail.com|2616927786|
+|Luciano Migoni|14713|lucianomigoni2005@gmail.com|2615664935|
+|Ignacio Perez|14778|tatopdmza@gmail.com|2612578719|
+|Genaro Sfrede|14621|genaro.sfrede@gmail.com|2613049036|
 
 ---
+
+### Enlaces de Entregas
+
+Gianella Albarracin: [Modulo 1](https://github.com/Gianella-albarracin/Modulo_1)  
+Luciano Migoni: [Modulo 1](https://github.com/Luciano-Migoni/Modulo_1)  
+Ignacio Perez: [Modulo 1](https://github.com/Ignacio-PerezDornheim/modulo_1.git)  
+Sfrede Genaro: [Modulo 1](https://github.com/genaro-sfrede/modulo_1.git)  
 
 ### Logotipo del grupo:
 
