@@ -11,8 +11,8 @@
 [Ignacio Perez](https://github.com/Ignacio-PerezDornheim)  
 [Genaro Sfrede](https://github.com/genaro-sfrede)  
   
-|Integrante|Legajo|Correo|Telefono|Entrega|
-|----|----|----|----|----|
+|Integrante|Legajo|Correo|Telefono|
+|----|----|----|----|
 |Gianella Albarracin|14783|albarracingianella45@gmail.com|2616927786|
 |Luciano Migoni|14713|lucianomigoni2005@gmail.com|2615664935|
 |Ignacio Perez|14778|tatopdmza@gmail.com|2612578719|
