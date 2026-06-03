@@ -6,6 +6,6 @@ En el siguiente PDF está la información sobre cómo utilizamos y para qué sir
 
 []()
 
-Además, dejamos adjunto el archivo de simulación de la **industria cervecera**, la industria correspondiente que nos tocó trabajar a mi y a mi equipo.
+Además, dejamos adjunto el archivo de simulación de la **industria cervecera**, la industria correspondiente que nos tocó trabajar al mi equipo.
 
 []()
