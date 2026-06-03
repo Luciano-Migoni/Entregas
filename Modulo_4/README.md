@@ -1,7 +1,7 @@
 # Artículo: Industria Petrolera Global vs. Potencial de Mendoza
 
 ## Archivos incluidos
-- `articulo_petroleo_mendoza.Rmd` — Artículo completo en RMarkdown
+- `industria_cervecera.Rmd` — Artículo completo en RMarkdown
 
 ## Requisitos
 - R (versión 4.0 o superior)
