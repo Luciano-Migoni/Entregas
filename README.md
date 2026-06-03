@@ -24,7 +24,7 @@
 
 |Integrante|Modulo 1|Modulo 2|Modulo 3|Modulo 4|
 |------|------|------|------|------|
-|Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo_1)|[M2](https://github.com/Gianella-albarracin/Modulo_2)|[M3](https://github.com/Gianella-albarracin/Modulo_3)|[M4]|
+|Gianella Albarracin|[M1](https://github.com/Gianella-albarracin/Modulo_1)|[M2](https://github.com/Gianella-albarracin/Modulo_2)|[M3](https://github.com/Gianella-albarracin/Modulo_3)|[M4](https://github.com/Gianella-albarracin/Modulo_4)|
 |Luciano Migoni|[M1](https://github.com/Luciano-Migoni/Modulo_1)|[M2](https://github.com/Luciano-Migoni/Modulo_2)|[M3](https://github.com/Luciano-Migoni/Modulo_3)|[M4]|
 |Ignacio Perez|[M1](https://github.com/Ignacio-PerezDornheim/modulo_1.git)|[M2](https://github.com/Ignacio-PerezDornheim/Modulo_2)|[M3](https://github.com/Ignacio-PerezDornheim/Modulo_3)|[M4](https://github.com/Ignacio-PerezDornheim/Modulo_4)|
 |Genaro Sfrede|[M1](https://github.com/genaro-sfrede/modulo_1.git)|[M2](https://github.com/genaro-sfrede/modulo_2)|[M3](https://github.com/genaro-sfrede/modulo_3)|[M4](https://github.com/genaro-sfrede/modulo_4)|
