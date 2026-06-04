@@ -25,5 +25,3 @@
 - Competitividad comercial
 - Biotecnología e innovación: Levaduras Extremófilas
 - Referencias bibliograficas
-
-## Datos utilizados
