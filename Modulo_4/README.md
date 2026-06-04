@@ -1,4 +1,4 @@
-# Artículo: Industria Petrolera Global vs. Potencial de Mendoza
+# Artículo: Análisis Integral de las Empresas Cerveceras
 
 ## Archivos incluidos
 - `industria_cervecera.Rmd` — Artículo completo en RMarkdown
