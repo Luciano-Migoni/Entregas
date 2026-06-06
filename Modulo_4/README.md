@@ -1,3 +1,14 @@
+### Enlaces de Entregas
+
+|Integrante|Modulo 4|
+|------|------|
+|Gianella Albarracin|[M4](https://github.com/Gianella-albarracin/Modulo_4)|
+|Luciano Migoni|[M4](https://github.com/Luciano-Migoni/Modulo_4)|
+|Ignacio Perez|[M4](https://github.com/Ignacio-PerezDornheim/Modulo_4)|
+|Genaro Sfrede|[M4](https://github.com/genaro-sfrede/modulo_4)|
+
+---
+
 # Artículo: Análisis Integral de las Empresas Cerveceras
 
 ## Archivos incluidos
